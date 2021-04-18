@@ -1,11 +1,18 @@
 # brazil_forest_fires
 Data analysis of brazil forest fires using the brazil forest fire dataset from Kaggle
 
-## To do
-*   Print out the rows to get a visual rep --first 5 rows and last 5 rows
-*   Get info about the data ...info
-*   Check for duplicates in the data..rows that are exactly similar
-    *   If duplicates exist, drop the duplicates
-* Clean the columns, print out the columns, renamu some       
+## Data analysis; --- Amazon Fires
+*   Reading the data
+*   Data cleaning 
+    *   Check for null values
+    *   Check for duplicates in the data set
+*   Analyse
+    *   Group data by month and check number of fires per month     
 
-
+## Data analysis; --- Nba data
+*   Check for empty rows and drop the rows
+*   Where column college is null, replace with State college
+*   Where salary is null, replace with average salary
+*   Find number of players earning both more and less than the average
+*   Who is the lowest paid in the lower division
+*   Group the data by teams
