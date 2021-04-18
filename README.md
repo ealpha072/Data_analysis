@@ -1,5 +1,10 @@
-# Data analysis for two data sets, Forest fires in Brazil and nba data set from geekforgeeks website.This was done as a practice on pandas and numpy libraries.
-Data analysis of brazil forest fires using the brazil forest fire dataset from Kaggle
+## Data analysis project.
+
+Data analysis for two data sets, Forest fires in Brazil and nba data set from geekforgeeks website.This was done as a practice on pandas and numpy libraries.
+
+## Data source;
+*  nba datase - geeksforgeeks
+*  amazonfires - Kaggle
 
 ## Data analysis; --- Amazon Fires
 *   Reading the data
