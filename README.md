@@ -3,13 +3,13 @@
 Data analysis for two data sets, Forest fires in Brazil and nba data set from geekforgeeks website.This project was helpfull in practicing the skills in pandas and numpy libraries
 
 ## Data source;
-*  nba data- geeksforgeeks
-*  amazonfires - Kaggle
+*  nba data- geeksforgeeksn websites
+*  amazonfires - Kaggle website
 
 ## Data analysis --- Amazon Fires
 *   Reading the data
 *   Data cleaning 
-    *   Check for null values
+    *   Check for null values in the dataset
     *   Check for duplicates in the data set
 *   Analyse
     *   Group data by month and check number of fires per month     
