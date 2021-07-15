@@ -3,8 +3,8 @@
 Data analysis for two data sets, `Forest fires in Brazil` and `nba` data set from geekforgeeks website.This project was helpfull in practicing the skills gained in pandas and numpy libraries
 
 ## Data source;
-*  nba data- geeksforgeeksn websites
-*  amazonfires - Kaggle website
+*  `nba data`- geeksforgeeksn websites
+*  `amazonfires` - Kaggle website
 
 ## Data analysis --- Amazon Fires
 *   Reading the data
